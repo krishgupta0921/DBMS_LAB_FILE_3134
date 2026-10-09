@@ -27,7 +27,7 @@ Complete implementation of 10 DBMS experiments covering database design, SQL que
 
 1. Clone repository
 ```bash
-   git clone https://github.com/yourusername/DBMs_LAB_FILE_3134.git
+   git clone https://github.com/krishgupta0921/DBMS_LAB_FILE_3134.git
    cd DBMS_LAB_FILE_3134
 ```
 
